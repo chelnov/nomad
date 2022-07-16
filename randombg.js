@@ -3,7 +3,7 @@ const maxImageCount = 3;
 
 function paintImage(imgNumber) {
   const image = new Image();
-  image.src = `../img/${imgNumber + 1}.jpeg`;
+  image.src = `./img/${imgNumber + 1}.jpeg`;
   image.classList.add("bgImage");
   body.prepend(image);
 }
