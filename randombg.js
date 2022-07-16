@@ -19,5 +19,3 @@ function init() {
 }
 
 init();
-
-alert('t');
