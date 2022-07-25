@@ -1,6 +1,6 @@
 // https://api.openweathermap.org/data/2.5/weather?lat=37.650432&lon=126.7924992&appid=61215e8c3614ad0dcae7120ff2e815d2
 
-const API_KEY = "61215e8c3614ad0dcae7120ff2e815d2";
+const API_KEY = "";
 
 
 function onGeoOk(position) {
